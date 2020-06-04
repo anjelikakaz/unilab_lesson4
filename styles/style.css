@@ -1,0 +1,90 @@
+a{
+	text-decoration: none;
+	color: white;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+}
+body{
+	padding: 2%;
+}
+.background{
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	border-style: solid;
+}
+.tittle{
+	text-align: center;
+	font-size: 18px;
+}
+.second-background{
+	background-color: #56836F;
+	height: 100%;
+	width: 100%;
+	padding-left: 150px;
+    border: 2px solid green;
+    margin-top: 10px;
+}
+.nav-block{
+    display: inline-block;
+	font-size: 48px;
+	margin-top: 30px;
+	margin-left: 15%;
+	float: left;
+}
+
+.nav-block-inside{
+    display: inline-block;
+	font-size: 48px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.logo{
+	float: right;
+	width: 201px;
+	height: 151px;
+	margin-right: 65px;
+	margin-top: 35px;
+}
+.container{
+	width: 90%;
+	margin-top: 7%;
+}
+.block{
+    width: 45%;
+    background-color: yellow;
+    display: inline-block;
+    float: left;
+    margin-left: 5%;
+    font-family: 'Nanum Gothic';
+    padding-right: 10px;
+}
+.picture{
+	float: right;
+    padding: 15px;
+}
+.second-picture{
+	float: left;
+    padding: 15px;
+}
+.text{
+	padding: 15px;
+}
+.text-block{
+	padding: 15px;4
+}
+.second-block{
+	width: 39%;
+	background-color: yellow;
+	display: inline-block;
+	float: right;
+	margin-right: 10%;
+	color: green;
+	font-family: 'Nanum Gothic';
+    padding-right: 10px;
+}
+.clear{
+	clear: both;
+}
