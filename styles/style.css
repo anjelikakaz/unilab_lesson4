@@ -55,22 +55,24 @@ body{
 	margin-right: 5%;
 }
 .block{
-    width: 45%;
+    width: 49%;
     background-color: yellow;
     display: inline-block;
     float: left;
     font-family: 'Nanum Gothic';
     padding: 10px;
+    margin-left: 35px;
 }
 
 .second-block{
-	width: 40%;
+	width: 42%;
 	background-color: yellow;
 	display: inline-block;
 	float: right;
 	color: green;
 	font-family: 'Nanum Gothic';
     padding: 10px;
+    margin-right: 35px;
 }
 
 .picture{
